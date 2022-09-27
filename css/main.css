@@ -1,0 +1,357 @@
+* { 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1 {
+    height: 520px;
+    width: 190px;
+    background-image: url("fundo do shampoo.png");
+    border: 5px solid #eec355;
+    transform: rotate(357deg);
+    border-top: transparent;
+    border-bottom: transparent;
+    border-right: transparent;
+    position: absolute;
+    border-radius: 30px;
+}
+
+.div2 {
+    height: 520px;
+    width: 190px;
+    background-image: url("fundo do shampoo.png");
+    border: 5px solid #eec355;
+    transform: rotate(3deg);
+    border-top: transparent;
+    border-bottom: transparent;
+    border-left: transparent;
+    position: absolute;
+    border-radius: 30px;
+}
+
+
+.div4 {
+    height: 30px;
+    width: 142px;
+    border: 2.8px solid #eec355;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    position: absolute;
+    margin-top: 495px;
+    border-radius: 10px;
+}
+
+.div5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 520px;
+}
+
+.p-1 {
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    position: absolute;
+}
+
+.pp-1 {
+    background-color: red;
+    height: 25px;
+    width: 65px;
+    margin-bottom: 482.5px;
+    margin-right: 75px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red-1 {
+    background-color: rgb(29, 29, 180);
+    width: 20px;
+    height: 30px;
+    margin-left: 70px;
+    margin-top: 10px;
+    position: absolute;
+    transform: rotate(20deg);
+}
+
+.red-2 {
+    background-color: rgb(29, 29, 180);
+    width: 20px;
+    height: 30px;
+    margin-right: 70px;
+    margin-top: 10px;
+    position: absolute;
+    transform: rotate(340deg);
+}
+
+.imagem{
+    margin-left: 27px;
+    transform: rotate(6deg);
+    margin-top: 170px;
+    width: 155px;
+    position: absolute;
+
+}
+
+.fora-1 {
+    height: 520px;
+    width: 190px;
+    background-color: transparent;
+    border: 6px solid #eec355;
+    transform: rotate(3deg);
+    border-top: transparent;
+    border-bottom: transparent;
+    border-left: transparent;
+    position: absolute;
+    border-radius: 30px;
+}
+
+.fora-2 {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    border: 5px solid #eec355;
+    margin-left: 582.6px;
+    transform: rotate(3deg);
+    border: transparent;
+    margin-top: 140px;
+}
+
+.fora-3 {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    border: 5px solid #eec355;
+    margin-right: 582.8px;
+    transform: rotate(357deg);
+    border: transparent;
+    margin-top: 140px;
+}
+
+.fora-4 {
+    height: 520px;
+    width: 250px;
+    background-color: transparent;
+    border: 20px solid white;
+    transform: rotate(340deg);
+    border-top: transparent;
+    border-bottom: transparent;
+    border-right: transparent;
+    position: absolute;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    margin-right: 125.3px;
+}
+
+.fora-5 {
+    height: 520px;
+    width: 250px;
+    background-color: transparent;
+    border: 20px solid white;
+    transform: rotate(20deg);
+    border-top: transparent;
+    border-bottom: transparent;
+    border-left: transparent;
+    position: absolute;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    margin-left: 125.3px;
+}
+
+.fora-6 {
+    width: 183.8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    margin-bottom: 520px;
+}
+
+.dentro-1 {
+    height: 10px;
+    width: 180px;
+    background-color: transparent;
+    border: 2.8px solid #eec355;
+    border-bottom: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    position: absolute;
+    border-radius: 40px;
+    margin-bottom: 19px;
+    margin-left: 74px;
+}
+
+.p-2{
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: -1px;
+    font-weight: 2;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 420px;
+    margin-left: 45px;
+}
+
+.p-3 {
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 64px;
+    color: white;
+    margin-bottom: 443px;
+    margin-right: 128px;
+}
+
+.p-4 {
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 7px;
+    color: white;
+    margin-bottom: 425px;
+    margin-left: 165px;
+}
+
+.anticaspa {
+    width: 196px;
+    height: 18px;
+    background: red;
+    position: absolute;
+    margin-bottom: 300px;
+    border: 2px solid #eec355;
+    border-left: transparent;
+    border-right: transparent;
+}
+
+.p-men {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: -283px;
+    margin-right: 120px;
+    position: absolute;
+}
+
+.p-anticaspa {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    margin-top: -283px;
+    margin-left: 70px;
+}
+
+.barra {
+    height: 17px;
+    width: 2px;
+    background-color: #eec355;
+    margin-top: -300px;
+    margin-right: 50px;
+    transform: rotate(20deg);
+    position: absolute;
+}
+
+.cabelo-barba {
+    position: absolute;
+    width: 180px;
+    height: 40px;
+    background-color: #eec355;
+    margin-bottom: 210px;
+    margin-right: 100px;
+}
+
+.p-cabelo-barba {
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 228px;
+    margin-right: 96px;
+    font-weight: 800;
+    color: rgb(6, 6, 156);
+    font-size: 17px;
+    line-height: 15px;
+}
+
+.shampoo {
+    position: absolute;
+    color: white;
+    margin-bottom: 165px;
+    margin-right: 128px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+}
+
+.cabe {
+    position: absolute;
+    width: 23px;
+    height: 58px;
+    background-color: rgb(28, 28, 124);
+    transform: rotate(315deg);
+    margin-bottom: 224px;
+    margin-left: 60px;
+    border-top-right-radius: 10px;
+}
+
+.cabe-2 {
+    position: absolute;
+    width: 23px;
+    height: 40px;
+    background-color: rgb(28, 28, 124);
+    transform: rotate(315deg);
+    margin-bottom: 224px;
+    margin-left: 80px;
+    border-radius: 10px;
+}
+.numeros {
+    position: absolute;
+    color: white;
+    transform: rotate(270deg);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 6px;
+    margin-right: 140px;
+    margin-top: 370px;
+}
+
+.ml {
+    position: absolute;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 510px;
+}
+
+.acao {
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(6, 6, 156);
+    font-size: 9px;
+    margin-top: 440px;
+    margin-left: 30px;
+    background-color: #eec355;
+    width: 145px;
+    height: 25px;
+    padding-left: 30px;
+    padding-top: 2px;
+}
+
+.p-hidrata {
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(6, 6, 156);
+    font-size: 9px;
+    margin-top: 462px;
+    margin-left: 30px;
+    width: 140px;
+    height: 25px;
+    padding-left: 17px;
+    padding-top: 2px;
+}
+
+.acao-1 {
+    position: absolute;
+    background-color: rgb(45, 45, 194);
+    width: 25px;
+    height: 48px;
+    transform: rotate(35deg);
+    margin-top: 430px;
+    margin-right: 110px;
+}
